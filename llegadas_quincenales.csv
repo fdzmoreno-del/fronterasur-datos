@@ -1,5 +1,4 @@
 ﻿desde;hasta;dias;periodo;llegadas;variacion_acumulado_oficial;media_diaria;llegadas_canarias;llegadas_peninsula;llegadas_baleares;llegadas_ceuta;llegadas_melilla;revision_canarias;revision_peninsula;revision_baleares;revision_ceuta;revision_melilla;agrupa_quincenas;zonas_sin_actualizar
-2024-07-16;2024-07-31;16;2.ª quincena de julio de 2024;2446;2446;152,9;1677;;;134;21;;;;;;1;
 2024-08-01;2024-08-15;15;1.ª quincena de agosto de 2024;2124;2124;141,6;834;;;255;2;;;;;;1;
 2024-08-16;2024-08-31;16;2.ª quincena de agosto de 2024;4301;4301;268,8;3220;;;314;32;;;;;;1;
 2024-09-01;2024-09-15;15;1.ª quincena de septiembre de 2024;2514;2514;167,6;1234;;;109;6;;;;;;1;
@@ -51,3 +50,4 @@
 2026-08-01;2026-08-15;15;1.ª quincena de agosto de 2026;2875;2875;191,7;133;794;569;1178;201;;;;;;1;
 2026-08-16;2026-08-31;16;2.ª quincena de agosto de 2026;1382;445;86,4;355;502;501;0;24;;;;-937;;1;
 2026-09-01;2026-09-15;15;1.ª quincena de septiembre de 2026;1489;1489;99,3;429;310;693;;57;;;;;;1;ceuta
+2026-09-16;2026-09-30;15;2.ª quincena de septiembre de 2026;2740;2740;182,7;1541;370;781;2;46;;;;;;1;
